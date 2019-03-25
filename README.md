@@ -9,21 +9,21 @@ Mais informações em http://www.paulocollares.com.br/2013/06/sistema-simples-de
 
 # Funcionalidades
 
-Navegação por mês.
-Balanço Geral.
-Categorias de movimentos.
-Entradas e saídas do mês.
-Movimentos detalhados por mês.
-Autenticação.
-Filtro por Categorias.
+- Navegação por mês
+- Balanço Geral
+- Categorias de movimentos
+- Entradas e saídas do mês
+- Movimentos detalhados por mês
+- Autenticação
+- Filtro por Categorias
 
 # Requisitos
 
-PHP 5.
-Mysql.
+- PHP 5
+- Mysql
 
 # Instalação
 
-Importe o arquivo Instalar/livro_caixa.sql em seu gerenciador de banco de dados do MySQL.
-Modifique o arquivo config.php com o usuário e a senha do seu banco, e o usuário e senha para autenticação.
-Acesse http://endereço.para.seu.servidor/livro_caixa.
+1. Importe o arquivo Instalar/livro_caixa.sql em seu gerenciador de banco de dados do MySQL.
+2. Modifique o arquivo config.php com o usuário e a senha do seu banco, e o usuário e senha para autenticação.
+3. Acesse http://endereço.para.seu.servidor/livro_caixa.
