@@ -1,11 +1,14 @@
 # Sistema simples de Livro Caixa (Gerenciador Financeiro) em PHP 
+
+![Sistema simples de Livro Caixa (Gerenciador Financeiro) em PHP ](http://www.paulocollares.com.br/wp-content/uploads/2012/04/1.jpg)
+
 Fiz esse gerenciador para controlar minhas finanças pessoais, é um sistema simples, mas bem prático e funcional.
 
 O objetivo deste projeto não é ser um sistema financeiro completo, com todos os recursos que um sistema financeiro deve ter, e sim um sistema simples para controle de finanças pessoais.
 
 Versão atual: 1.3.
 
-Mais informações em http://www.paulocollares.com.br/2013/06/sistema-simples-de-livro-caixa-em-php/
+Mais informações em http://www.paulocollares.com.br/programacao/sistema-simples-de-livro-caixa-em-php/
 
 # Funcionalidades
 
